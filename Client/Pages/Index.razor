@@ -1,0 +1,29 @@
+﻿@page "/"   
+@using System.Text.Json
+@using TSGUI.Shared
+@using TSGUI.Shared.DataTypes
+
+
+@inject HttpClient client
+
+<EditForm Model=@Employee OnSubmit="@ValidateForm">
+  <InputNumber age="age" @bind-Value="Employee.Age" />
+</EditForm>
+
+
+
+@code{
+    private Employee Employee = new();
+
+    public async void SendForm(Employee employee)
+    {
+        var data = await client.PostAsJsonAsync("Prediction", employee);
+        Console.WriteLine(data);
+    }
+
+    void ValidateForm()
+    {
+        
+    }
+
+}

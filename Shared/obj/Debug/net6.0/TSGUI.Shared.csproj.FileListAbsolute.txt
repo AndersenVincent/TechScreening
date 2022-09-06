@@ -1,0 +1,12 @@
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\bin\Debug\net6.0\TSGUI.Shared.deps.json
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\bin\Debug\net6.0\TSGUI.Shared.dll
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\bin\Debug\net6.0\TSGUI.Shared.pdb
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.csproj.AssemblyReference.cache
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.AssemblyInfoInputs.cache
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.AssemblyInfo.cs
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.dll
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\refint\TSGUI.Shared.dll
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\TSGUI.Shared.pdb
+C:\Users\v.andersen\Desktop\TechScreeningVincent\TSGUI\Shared\obj\Debug\net6.0\ref\TSGUI.Shared.dll
